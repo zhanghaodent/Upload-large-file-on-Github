@@ -27,10 +27,8 @@ Debug1:git push --set-upstream origin master
 Everything up-to-date  
 branch 'master' set up to track 'origin/master'.  
 Debug2:git add .  
-
-
-git commit -m "message"
-git push
+git commit -m "message"  
+git push  
 
 
 
