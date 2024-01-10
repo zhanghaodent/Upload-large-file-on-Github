@@ -9,8 +9,8 @@ git add .gitattributes
 git remote add origin http://XXXXX.com #setup link between Github and local Github  
 git push origin master #upload the property files  
 git add * #adding the uploaded files, * represents all files in the repository  
-git commit -m "Git LFS commit" #添加大文件上传的说明  
-git push origin master #上传大文件  
+git commit -m "Git LFS commit" #adding explanation for large files    
+git push origin master #upload large files    
 
 #Bug and debug  
 ##Bug1: git push  
